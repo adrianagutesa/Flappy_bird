@@ -1,7 +1,6 @@
 # Flappy_bird
-SEMINARSKI RAD
 
-Kao temu ovog seminarskog rada uzela sam igru Flappy bird koja je rađena u Python objektno – orijentiranom programskom jeziku pomoći biblioteke turtle. 
+Igra Flappy bird je rađena u Python objektno – orijentiranom programskom jeziku pomoći biblioteke turtle. 
 Igra je napravljena u Visual Studio Code – u na Windows 10, a potreban je Python 3.0.
 Grafika programa je napravljena pomoću gifova koji su učitani iz datoteke. 
 Pozadina se sastoji od dva dijela: slike grada i zemlje. 
